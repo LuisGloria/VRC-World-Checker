@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="assets/logo.png" alt="VWC_LOGO">
+  <img src="assets/vwc_logo.png" alt="VWC_LOGO">
 </p>
 
 # VRChat World Checker
 Paste a world ID (or a vrchat.com link) and get a *predicted assumption*: **Possibly safe**, **Hmmmmm...**, or **Don't ffs!**, complete with the metadata, reasons and charts!
 
 # Installation
-Install Python 3.10+ from here https://www.python.org/downloads/ (MAKE SURE YOU CHOOSE ADVANCED OPTIONS AND SELECT THE "Add a PATH" CHECKBOX!!!)
+Install Python 3.10+ from [here](https://www.python.org/downloads/) (MAKE SURE YOU CHOOSE ADVANCED OPTIONS AND SELECT THE "Add a PATH" CHECKBOX!!!)
+(On linux you just run a command on your shell and you're done lol (well, you need to setup a venv first))
 
 Then run this on the directory:
 ```bash
@@ -30,7 +31,7 @@ python main.py <world id or link> --json                          # Command Line
 
 ## Note 1:
 World ID: wrld_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-Link    : https://vrchat.com/worlds/wrld_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+Link    : `https://vrchat.com/worlds/wrld_xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`
 
 
 # Logging
