@@ -63,3 +63,6 @@ VRChat doesn't officially support third-party API use, keep request volume low a
 ## Note 3:
 Once you finish an analyzation, it will give you a confidence level.
 It's *Never* high because this is a assumption. Low when there's little data to review
+
+### Last note:
+There are executables for people who just want the executable file and not have to deal with the whole python installation process, but remember that that means you won't be able to change configs! Although for a general user, I'd recommend the execs.
